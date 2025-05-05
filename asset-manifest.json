@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/foodii/static/css/main.317ab23a.css",
+    "main.js": "/foodii/static/js/main.29e2b2aa.js",
+    "static/media/meals.jpg": "/foodii/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/foodii/index.html",
+    "main.317ab23a.css.map": "/foodii/static/css/main.317ab23a.css.map",
+    "main.29e2b2aa.js.map": "/foodii/static/js/main.29e2b2aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.317ab23a.css",
+    "static/js/main.29e2b2aa.js"
+  ]
+}
